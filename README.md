@@ -6,7 +6,6 @@ Currently learning
 > [![Python](https://img.shields.io/badge/Python-14354C)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-ED8B00)](https://www.java.com/) [![C++](https://img.shields.io/badge/C++-00599C)](https://cplusplus.com/)
 
 If you want to contact me, here is my contact information
-> QQ: [2110242767](https://qm.qq.com/q/7UoqoWa2vm)
 > DC: [jhqwqmc#8740](https://discord.com/app)
 <details>
 
