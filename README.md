@@ -8,8 +8,8 @@ Currently learning
 If you want to contact me, here is my contact information
 > DC: [jhqwqmc#8740](https://discord.com/app)
 
-[![GitHub stats](https://github-readme-stats-gules-theta-81.vercel.app/api?username=jhqwqmc&show_icons=true&theme=radical)](https://github.com/jhqwqmc)
-[![Top Langs](https://github-readme-stats-gules-theta-81.vercel.app/api/top-langs/?username=jhqwqmc&layout=compact&theme=radical)](https://github.com/jhqwqmc)
+[![GitHub stats](https://github-readme-stats-gules-theta-81.vercel.app/api?username=jhqwqmc&show_icons=true&theme=radical&)](https://github.com/jhqwqmc)
+[![Top Langs](https://github-readme-stats-gules-theta-81.vercel.app/api/top-langs/?username=jhqwqmc&layout=compact&theme=radical&)](https://github.com/jhqwqmc)
 
 <details>
 
@@ -23,6 +23,6 @@ If you want to contact me, here is my contact information
 如果你想联系我的话，这里有我的联系方式
 > DC: [jhqwqmc#8740](https://discord.com/app)
 > 
-[![Github 统计](https://github-readme-stats-gules-theta-81.vercel.app/api?username=jhqwqmc&locale=cn&show_icons=true&theme=radical)](https://github.com/jhqwqmc)
-[![常用语言](https://github-readme-stats-gules-theta-81.vercel.app/api/top-langs/?username=jhqwqmc&locale=cn&layout=compact&theme=radical)](https://github.com/jhqwqmc)
+[![Github 统计](https://github-readme-stats-gules-theta-81.vercel.app/api?username=jhqwqmc&locale=cn&show_icons=true&theme=radical&)](https://github.com/jhqwqmc)
+[![常用语言](https://github-readme-stats-gules-theta-81.vercel.app/api/top-langs/?username=jhqwqmc&locale=cn&layout=compact&theme=radical&)](https://github.com/jhqwqmc)
 </details>
